@@ -6,13 +6,13 @@
 
 Seja bem-vindo à minha página do GitHub! 😎
 
-
+##
 
 #### 🌱 Coisas que estou trabalhando atualmente:
   - Estou cursando faculdade em Sup tec em Análise e desenvolvimento de sistema;
   - Estudando para desenvolvedor web: HTML | CSS | JavaScript;
   - Trabalhando em uma landing page;
-
+##
 #### :computer: Linguagens de programação e ferramentas: 
 <p>
 
