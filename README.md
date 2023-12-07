@@ -29,29 +29,4 @@ Seja bem-vindo à minha página do GitHub! 😎
 :construction: Em obras... Vamos tomar um café? :construction:
 
 
-# Awesome Projeto
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Build Status](https://travis-ci.org/seu-usuario/seu-projeto.svg?branch=master)](https://travis-ci.org/seu-usuario/seu-projeto)
-[![GitHub Issues](https://img.shields.io/github/issues/seu-usuario/seu-projeto.svg)](https://github.com/seu-usuario/seu-projeto/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/seu-usuario/seu-projeto.svg)](https://github.com/seu-usuario/seu-projeto/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/seu-usuario/seu-projeto.svg)](https://github.com/seu-usuario/seu-projeto/network)
-[![Contributors](https://img.shields.io/github/contributors/seu-usuario/seu-projeto.svg)](https://github.com/seu-usuario/seu-projeto/graphs/contributors)
-
-Descrição concisa do seu projeto.
-
-## Tabela de Conteúdo
-
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
-## Instalação
-
-Guia passo a passo sobre como instalar o seu projeto.
-
-```bash
-npm install meu-projeto
-
------------------------------------------
